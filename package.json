@@ -1,7 +1,7 @@
 {
   "name": "@lyncx/meta",
   "version": "6.6.6",
-  "description": "Meta baileys by fuadxyro", 
+  "description": "Meta baileys by JazxCode", 
   "keywords": [
     "whatsapp",
     "js-whatsapp",
@@ -9,11 +9,11 @@
     "whatsapp-web",
     "multi-device",
     "md",
-    "zenith"
+    "jazxcode"
   ],
-  "homepage": "https://github.com/fuadxyro/baileys",
+  "homepage": "https://github.com/Jazxx77/bail",
   "repository": {
-    "url": "git+ssh://git@github.com/fuadxyro/baileys.git"
+    "url": "git+ssh://git@github.com/Jazxx77/bail.git"
   },
   "license": "MIT",
   "author": "Adhiraj Singh",
